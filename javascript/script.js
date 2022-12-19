@@ -1,4 +1,4 @@
-let myName= document.querySelector(".heading");
+let myName= document.querySelector(".my-name");
  
     myName.addEventListener('click',function(){
     document.body.style.background = randomColors()
