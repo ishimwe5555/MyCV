@@ -28,12 +28,13 @@ text-align: left;
 
 .my-picture>img{
 width:72px;
-height:72px;
+  height:72px;
 border-radius: 50%;
   
 }
 .content{
-padding: 1rem 5rem;
+    padding: 1rem 5rem;
+
 display:grid;
 grid-template-columns: 70% 30%;
 }
@@ -57,5 +58,5 @@ color:#73808D;
   padding-top:10px;
 }
 .education{
-  padding-top:15px;
+  padding-top: 15px;
 }
