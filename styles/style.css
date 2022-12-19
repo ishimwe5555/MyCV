@@ -27,14 +27,13 @@ text-align: left;
 }
 
 .my-picture>img{
-max-width: 100%;
-  display: block;
+width:72px;
+height:72px;
 border-radius: 50%;
   
 }
 .content{
-    padding: 1rem 5rem;
-
+padding: 1rem 5rem;
 display:grid;
 grid-template-columns: 70% 30%;
 }
