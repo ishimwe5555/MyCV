@@ -1,7 +1,7 @@
 let myName= document.querySelector(".my-name");
- 
+ let txt = document.querySelector('.name');
     myName.addEventListener('click',function(){
-    document.body.style.background = randomColors()
+    txt.style.background = randomColors()
   });
 
 
